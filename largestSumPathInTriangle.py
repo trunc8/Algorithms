@@ -1,4 +1,6 @@
+# trunc8
 import math
+
 arr = [3, 7, 4, 2, 4, 6, 8, 5, 9, 3]
 N = int(math.sqrt(2*len(arr)))
 arr2 = []
